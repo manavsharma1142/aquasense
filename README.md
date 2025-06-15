@@ -54,7 +54,7 @@ Below are some screenshots to show how the app looks and works.
 - Qt 6
 - Python (for backend logic)
 - CMake
-- Azure Functions (optional)
+- Azure Functions 
 
 ---
 
