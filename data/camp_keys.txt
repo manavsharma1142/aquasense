@@ -1,0 +1,16 @@
+3f271f035a2549fc8a6f361e8bdd4536 - key1
+69bb18af66994dee946b89e6df17fd88 - key2
+https://upes-camp-multiservices.cognitiveservices.azure.com/ - endpoint
+
+
+language serv
+4a486830b8a24ae490139b7d7e160d5e - key1
+5e197688749243958a920589b9085930 - key2
+https://upes-camp-language-serv.cognitiveservices.azure.com/ - endpoint
+
+translation serv
+06f4f7584f6f454e80b8015be3725aa8 - key1
+02e8dfc1dfb74b07b2f9da51748e83ac - key2
+
+custom qna
+https://upes-camp-language-serv.cognitiveservices.azure.com/language/:query-knowledgebases?projectName=LearnFAQ&api-version=2021-10-01&deploymentName=production - prediction URL

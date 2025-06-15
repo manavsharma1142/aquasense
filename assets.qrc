@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>assets/icon-128x128.png</file>
+        <file>assets/icon-432x432.png</file>
+        <file>assets/icon-1024x1024.png</file>
+        <file>assets/icon-200x200.png</file>
+    </qresource>
+</RCC>

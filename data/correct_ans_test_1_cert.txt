@@ -1,0 +1,63 @@
+Date: 24-05-2024
+Time: 2 PM
+
+Test lasted about 50 mins.
+And then the discussion happened.
+
+1) C. correct
+2) Fairness and Inclusiveness. (regardless of location or background)
+   transparency - i know how im getting an answer
+   inclusivness - not discriminating based on stuff
+3) The second sub key was reset. regenerateKey API
+   key2 was reset.
+4) ABF. CMKs. I provide the keys to Azure, and perform encryption on it.
+   whenever a key is changed, it's changed by the customer.
+   query time will increase because of extra task.
+   index size will also increase.
+   
+   this is server-side encryption.
+5) Yes. correct
+6) No. Network knowledge required. 
+   If you want two servics to talk to each other,
+   the endpoint must be private to avoid public traffic.
+   because if they were using public endpoint they would be
+   internet to talk to eaceh other
+7) No. Same logic as before. correct
+8) DE are correct. When a QnA maker is created,
+   questions and answers are mapped using search service.
+   and deployed as an app service.
+9) Yes. correct
+10) Regression. correct
+11) D. correct
+12) No. correct
+13) D. direct line speech to bot1. inclusiveness
+    if the model can speak. that will include
+    even those who cannot speak.
+14) Yes. Replicas -> one more server replica. Handle more
+    requests. 
+15) D. Search for words & categories -> searchable.
+       no mention of sorting, so not needed.
+       filtering can be introduced using 
+	key.
+16) A. correct
+17) D. correct 
+18) C. the vn settings for ta1
+19) D. Docker engine. A server, and host a container within
+    the same server.
+20) Mixed. correct
+21) Billing. Send billing data to cloud when you're running on edge.
+22) A. correct
+23) D. set virtual network rules to connect two services. 
+24) A. correct
+25) D. Metric isn't for data. univariate anomaly
+26) AE. 
+27) BD. correct
+28) AD. correct
+29) F0 -> free version.
+30) B. correct 
+31) B. A human's headpose changes constantly. That is a human.
+32) A. 
+33) C. correct
+34) A. correct
+35) CD. 
+36) 
