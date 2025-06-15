@@ -44,27 +44,7 @@ Below are some screenshots to show how the app looks and works.
 
 ### Splash screen
 
-![Splash](images/splash.png)
 
-### Main dashboard
-
-![Dashboard](images/dashboard.png)
-
-### Entering data to predict
-
-![Prediction Input](images/predict.png)
-
-### When the app is processing
-
-![Predicting](images/predicting.png)
-
-### Result after prediction
-
-![Result](images/visualization.png)
-
-### Heatmap of features
-
-![Heatmap](images/heatmap.png)
 
 ---
 
